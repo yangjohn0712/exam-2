@@ -1,6 +1,6 @@
 # Exam #2
 
-In this exam, you will Use [JupyterLab](http://jupyterlab.io/) or any other Jupyter Notebook editor you prefer to open the Jupyter Notebook named [analysis.ipynb](./analysis.ipynb). Instructions of what to do are included within that notebook.
+In this exam, you will Use [JupyterLab](http://jupyterlab.io/), or any other Jupyter Notebook editor you prefer, to open the Jupyter Notebook named [analysis.ipynb](./analysis.ipynb). Instructions of what to do are included within that notebook.
 
 ## Submit your work
 
